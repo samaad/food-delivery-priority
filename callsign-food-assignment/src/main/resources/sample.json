@@ -1,0 +1,11 @@
+[
+  {
+    "deliveryId": 1,
+    "customerType": "LOYAL",
+    "deliveryStatus": "ORDER_RECEIVED",
+    "expectedDeliveryTime": "2021-12-07T17:09:42.411",
+    "currentDistanceFromDestinationInMeters": 100,
+    "timeToReachDestination": "2021-12-07T17:09:30.411",
+    "meanTimeToPrepareFood": "00:40:12"
+  }
+]
